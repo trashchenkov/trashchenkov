@@ -2,7 +2,7 @@
 
 Working with LangChain, Gradio, and local inference (GGUF, LoRA, DeepSpeed). 
 
-Sharing insights on AI and automation via YouTube and Telegram.
+Sharing insights on AI and automation via [YouTube](https://www.youtube.com/@trashchenkov) and [Telegram](https://t.me/gigatrash).
 
 <!---
 trashchenkov/trashchenkov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
